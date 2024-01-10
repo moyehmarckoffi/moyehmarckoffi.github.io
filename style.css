@@ -1,0 +1,49 @@
+.h2c{
+    background-color: #A1CCD1 ;
+}
+#myname {
+    text-decoration: underline;
+    color: #A1CCD1 ;
+    font-family:"Lugrasino", cursive ;
+    font-size: 32px;
+}
+body{
+    background-color:#F4F2DE;
+
+}
+.p2{
+    text-decoration: underline;
+}
+.div1{
+    width: 300px;
+    border: 2px solid;
+    height: 90px;
+    padding-left: 7px;
+    background-color: #E9B384;
+    border-color: grey
+}
+.div2 {
+    width: 300px;
+    border: 2px solid;
+    height: 90px;
+    padding-left: 7px;
+    background-color: #E9B384;
+    border-color: grey
+}
+.div3{
+    width: 300px;
+    border: 2px solid;
+    height: 90px;
+    padding-left: 7px;
+    background-color: #E9B384;
+    border-color: grey
+}
+.img{
+    display: flex ;
+    justify-content: center;
+}
+
+#page{
+    text-align: center;
+ 
+}
